@@ -2,6 +2,7 @@ Project Title: Legal and Product Text Summarization with LoRA-enhanced Transform
 Overview
 This project demonstrates two fine-tuning pipelines for abstractive text summarization using HuggingFace Transformers and the LoRA (Low-Rank Adaptation) technique for efficient training.
 
+
 It includes:
 
 Legal Document Summarization
